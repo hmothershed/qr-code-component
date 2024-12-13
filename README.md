@@ -4,13 +4,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![alt text](image.png)
 
 ### Links
-[Solution URL](https://your-solution-url.com)
+[Solution URL](https://github.com/hmothershed/qr-code-component)
 <br> 
-[Live Site URL](https://your-live-site-url.com)
-
+[Live Site URL](https://hmothershed.github.io/qr-code-component/)
 ### Built with
 - Semantic HTML5 markup
 - CSS custom properties
