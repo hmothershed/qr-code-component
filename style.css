@@ -90,6 +90,7 @@ footer a:hover {
 /* for desktop */
 @media screen and  (min-width: 1440px){
     body {
+        display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
@@ -97,20 +98,27 @@ footer a:hover {
     }
 
     .qr {
-        width: 22.5%;
-        padding: 24px;
-        max-width: none;
+        width: 25%;
+        padding: 32px;
+        max-width: 480px;
+    }
+
+    .qrImg {
+        margin-bottom: 24px; 
     }
 
     #header {
         font-size: 24px;
+        margin-bottom: 20px;
     }
 
     #paragraph {
         font-size: 16px;
+        margin-bottom: 24px;
     }
 
     footer {
         font-size: 18px;
+        margin-top: 24px;
     }
 }
