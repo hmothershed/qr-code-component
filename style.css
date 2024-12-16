@@ -89,15 +89,6 @@ footer a:hover {
 
 /* for desktop */
 @media screen and  (min-width: 1440px){
-    body {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        min-height: 100vh;
-        padding: 0;
-    }
-
     .qr {
         width: 95%;
         padding: 32px;
